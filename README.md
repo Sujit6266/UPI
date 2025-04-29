@@ -1,1 +1,2 @@
 # UPI
+This project investigates the key factors influencing user adoption and satisfaction with UPI apps like Google Pay, PhonePe, and Paytm. Statistical methods such as Chi-Square Test, Kruskal-Wallis, Dunn Test, Factor Analysis, Logistic Regression, and Decision Tree were applied. Results showed UPI usage significantly varies by age, gender, and occupation. User satisfaction is highly influenced by app reliability, functionality, and transaction-related features. Reliability emerged as the strongest.
